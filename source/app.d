@@ -1,0 +1,27 @@
+import libs.include_assert;
+// import libs.include_complex;
+import libs.include_ctype;
+import libs.include_errno;
+import libs.include_fenv;
+import libs.include_float;
+import libs.include_inttypes;
+import libs.include_limits;
+import libs.include_locale;
+import libs.include_math;
+import libs.include_setjmp;
+import libs.include_signal;
+import libs.include_stdalign;
+import libs.include_stdarg;
+import libs.include_stdatomic;
+import libs.include_stdbool;
+import libs.include_stddef;
+import libs.include_stdint;
+// import libs.include_stdio;
+import libs.include_stdlib;
+import libs.include_stdnoreturn;
+import libs.include_string;
+// import libs.include_tgmath;
+import libs.include_threads;
+import libs.include_time;
+import libs.include_uchar;
+void main() { }

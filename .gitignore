@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sandbox-importc
+sandbox-importc.so
+sandbox-importc.dylib
+sandbox-importc.dll
+sandbox-importc.a
+sandbox-importc.lib
+sandbox-importc-test-*
+*.exe
+*.o
+*.obj
+*.lst
